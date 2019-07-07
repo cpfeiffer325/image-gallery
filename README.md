@@ -1,7 +1,7 @@
 # Image Gallery Using React
 
 ## Getting started
-Fork and clone repo
+Clone repo
 
 Run the following commands
 ```
