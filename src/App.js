@@ -23,8 +23,8 @@ const imageUrls = [
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <div className="App-header">
+      <div className="app">
+        <div className="app-header">
           <h1>Food Image Gallery using React</h1>
         </div>
         <main className="image-container">
